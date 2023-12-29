@@ -15,4 +15,4 @@ A simple timer application built using PyQt6.
 - Python 3.7 or higher
 
  ## Example 
-![image](https://github.com/ArtVlk/Simple-timer/blob/main/ex.jpg)https://github.com/ArtVlk/Simple-timer/blob/main/ex.jpg)
+![image](https://github.com/ArtVlk/Simple-timer/blob/main/ex.jpg)
